@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6 {
           justify-content: space-between;
 }
 .select__arrow {
-  background-image: url("../../img/arrow.png");
+  background-image: url("../img/arrow.png");
   width: 20px;
   height: 20px;
   background-size: cover;
